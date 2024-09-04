@@ -38,13 +38,7 @@ Beyond the world of code, I'm also a musician. In my free time, I dive into musi
 
 ---
 
-**Find Me Online**
-
-- [GitHub](https://github.com/sirgocuci)
-- [LinkedIn](https://www.linkedin.com/in/sergio-cucinotta)
-- [Music Portfolio (optional)](https://link.to.music.profile)
-
-### Find me here:
+**Find me here**
 
 <p align="left"> 
 <a href="https://www.github.com/sirgocuci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
