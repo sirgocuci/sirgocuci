@@ -7,6 +7,8 @@
 
 **About Me**
 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJzY3A2NGdzajFqOXBoazJiM2JuM21veXUxMTZia3ljNjg4bXlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k7LLy1bE7aIgg/giphy.gif" /> 
+
 I'm a Computer Science and Engineering graduate from PoliMi with a passion for both technology and creativity. My journey into the world of coding began early, tinkering with HTML on videogame forums, and has since evolved into a deep interest in software engineering, data science, and problem-solving.
 
 Beyond the world of code, I'm also a musician. In my free time, I dive into music production using Ableton, where I get to experiment with sound and create tracks that blend my technical and artistic sides.
