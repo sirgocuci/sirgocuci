@@ -25,30 +25,10 @@ Beyond the world of code, I'm also a musician. In my free time, I dive into musi
 
 ---
 
-**Current Focus**
-
-- 🌱 **Learning & Growing**: I'm continuously expanding my knowledge, whether through new programming languages, data science frameworks, or cutting-edge AI tools. I'm particularly interested in generative AI and its potential to transform industries
-  
-- 🎯 Data-Driven Projects: Actively working on projects that merge my skills in coding, data analysis, and creativity. I believe the best solutions come from combining technical rigor with innovative thinking.
-
----
-
 **Get in Touch!**
 
 - 📧 You can reach me at: [sirgo.cuci@gmail.com](mailto:your.email@example.com)
-- 💬 Always open for a chat about tech, data science, AI, music, videogames or anything creative!
-
----
-
-**Find me here**
-
-<p align="left"> 
-<a href="https://www.github.com/sirgocuci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/sergio-cucinotta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
-
----
-
-If you’re interested in projects that sit at the intersection of technology, AI and creativity, feel free to explore my work or reach out!
+- Github: <a href="https://www.github.com/sirgocuci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+- LinkedIn: <a href="https://www.linkedin.com/in/sergio-cucinotta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ---
